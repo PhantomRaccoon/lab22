@@ -1,0 +1,3 @@
+[submodule "lab22"]
+	path = lab22
+	url = https://github.com/ekukovenko/lab22.git
